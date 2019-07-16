@@ -1,61 +1,66 @@
 #A{
-    border-style: solid;
+    line-height: 75px;
     width: 480px;
     height: 75px;
     background-color: grey;
   }
   
   #B{ 
-    border-style: solid;
+    line-height: 150px;
     width: 480px;
     height: 150px;
     background-color: grey;    
   }
 
   #C{
-    border-style: solid;
+    line-height: 125px;
     width: 480px;
     height: 125px;
     background-color: grey; 
   }
   #D{
-    border-style: solid;
+    line-height: 125px;
     width: 480px;
     height: 125px;
     background-color: grey; 
     }
   
   #E{
-    border-style: solid;
+    line-height: 250px;
     width: 240px;
     height: 250px;
-    background-color: grey; 
+    background-color: grey;
+    float: left; 
   }
   
   #F{
-    border-style: solid;
+    line-height: 250px;
     width: 240px;
     height: 250px;
-    background-color: grey; 
+    background-color: grey;
+    float: left; 
   }
   
   #G{
-    border-style: solid;
+    line-height: 250px;
     width: 240px;
     height: 250px;
     background-color: grey; 
+    float: left;
   }
   
   #H{
-    border-style: solid;
+    line-height: 250px;
     width: 240px;
     height: 250px;
     background-color: grey; 
+    float: left;
   }
   
   #I{
-    border-style: solid;
-    width: 760px;
+    line-height: 150px;
+    width: 480px;
     height: 150px;
     background-color: grey;
+    float: left;
   }

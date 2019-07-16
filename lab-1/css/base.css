@@ -1,4 +1,11 @@
 *{
-    width: 980px;
-    border-width: .5px;
+    width: 480px;
+    text-align: center;
+}
+
+@media only screen and (min-width: 960px) {
+    *{
+        width: 960px;
+        text-align: center;
+    }
 }
