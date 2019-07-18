@@ -2,34 +2,34 @@
     line-height: 75px;
     width: 480px;
     height: 75px;
-    background-color: grey;
+    background-color: blue;
   }
   
   #B{ 
     line-height: 150px;
     width: 480px;
     height: 150px;
-    background-color: grey;    
+    background-color: pink;    
   }
 
   #C{
     line-height: 125px;
     width: 480px;
     height: 125px;
-    background-color: grey; 
+    background-color: aliceblue; 
   }
   #D{
     line-height: 125px;
     width: 480px;
     height: 125px;
-    background-color: grey; 
+    background-color: magenta; 
     }
   
   #E{
     line-height: 250px;
     width: 240px;
     height: 250px;
-    background-color: grey;
+    background-color: plum;
     float: left; 
   }
   
@@ -37,7 +37,7 @@
     line-height: 250px;
     width: 240px;
     height: 250px;
-    background-color: grey;
+    background-color: springgreen;
     float: left; 
   }
   
@@ -45,7 +45,7 @@
     line-height: 250px;
     width: 240px;
     height: 250px;
-    background-color: grey; 
+    background-color: rebeccapurple; 
     float: left;
   }
   
@@ -53,7 +53,7 @@
     line-height: 250px;
     width: 240px;
     height: 250px;
-    background-color: grey; 
+    background-color: khaki; 
     float: left;
   }
   
@@ -61,6 +61,6 @@
     line-height: 150px;
     width: 480px;
     height: 150px;
-    background-color: grey;
+    background-color: lawngreen;
     float: left;
   }
