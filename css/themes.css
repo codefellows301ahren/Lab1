@@ -1,65 +1,74 @@
-@media only screen and (min-width: 420px) {
+@media only screen and (min-width: 500px) {
+ main{
+   display: flex
+  }
+
   #A{
-  width: 960px;
+  width: 100%;
   height: 100px;
   background-color: lawngreen;
 }
 
 #B{
-  width: 200px;
+  width: 20%;
   height: 600px;
   background-color: khaki;
-  float: left;
+  flex-wrap: wrap
 
 }
+#rEls{
+  width: 80%;
+  display:flex;
+  flex-wrap: wrap;
 
+}
 #C{
-  width: 380px;
+  width: 50%;
   height: 200px;
   background-color: rebeccapurple;
-  float: left;
+  flex-wrap: wrap;
 }
 
 #D{
-      width: 380px;
+    width: 50%;
     height: 200px;
     background-color: springgreen;
-    float: left;
+    
   }
 
 #E{
-  width: 190px;
+  width: 25%;
   height: 250px;
   background-color: plum;
-  float: left;
+  flex-wrap: wrap;
 }
 
 #F{
-  width: 190px;
+  width: 25%;
   height: 250px;
   background-color: magenta;
-  float: left;
+  flex-wrap: wrap;
 }
 
 #G{
-  width: 190px;
+  width: 25%;
   height: 250px;
   background-color: aliceblue;
-  float: left;
+  flex-wrap: wrap;
 }
 
 #H{
-  width: 190px;
+  width: 25%;
   height: 250px;
   background-color: pink;
-  float: left;
+  flex-wrap: wrap;
 }
 
 #I{
-  width: 760px;
+  width: 100%;
   height: 150px;
   background-color: blue;
-  float: left;
+  flex-wrap: wrap;
 }
 
 
@@ -68,65 +77,77 @@
 
 
 
-@media only screen and (min-width: 960px) {
-  #A{
-    width: 100%;
-    height: 100px;
-    background-color: pink;
-  }
-  
-  #B{
-    width: 200px;
-    height: 600px;
-    background-color: khaki;
-    flex-wrap: wrap;
-  
-  }
-  
-  #C{
-    width: 380px;
-    height: 200px;
-    background-color: rebeccapurple;
-    flex-wrap: wrap;
-  }
-  
-  #D{
-        width: 380px;
-      height: 200px;
-      background-color: springgreen;
-      fflex-wrap: wrap;
-    }
-  
-  #E{
-    width: 190px;
-    height: 250px;
-    background-color: plum;
-    flex-wrap: wrap;
-  }
-  
-  #F{
-    width: 190px;
-    height: 250px;
-    background-color: magenta;
-    flex-wrap: wrap;
-  }
-  
-  #G{
-    width: 190px;
-    height: 250px;
-    background-color: aliceblue;
-    flex-wrap: wrap;
-  }
-  
-  #H{
-    width: 190px;
-    height: 250px;
-    background-color: pink;
-    flex-wrap: wrap;  }
-  
-  #I{
-    width: 760px;
-    height: 150px;
-    background-color: blue;
-    flex-wrap: wrap;
-  }
+
+@media only screen and (max-width: 960px) {
+  main{
+    display: flex
+   }
+ 
+   #A{
+   width: 100%;
+   height: 100px;
+   background-color: lawngreen;
+ }
+ 
+ #B{
+   width: 20%;
+   height: 1150px;
+   background-color: khaki;
+   flex-wrap: wrap
+ 
+ }
+ #rEls{
+   width: 80%;
+   display:flex;
+   flex-wrap: wrap;
+ 
+ }
+ #C{
+   width: 100%;
+   height: 250px;
+   background-color: rebeccapurple;
+   flex-wrap: wrap;
+ }
+ 
+ #D{
+     width: 100%;
+     height: 250px;
+     background-color: springgreen;
+     
+   }
+ 
+ #E{
+   width: 50%;
+   height: 250px;
+   background-color: plum;
+   flex-wrap: wrap;
+ }
+ 
+ #F{
+   width: 50%;
+   height: 250px;
+   background-color: magenta;
+   flex-wrap: wrap;
+ }
+ 
+ #G{
+   width: 50%;
+   height: 250px;
+   background-color: aliceblue;
+   flex-wrap: wrap;
+ }
+ 
+ #H{
+   width: 50%;
+   height: 250px;
+   background-color: pink;
+   flex-wrap: wrap;
+ }
+ 
+ #I{
+   width: 100%;
+   height: 150px;
+   background-color: blue;
+   flex-wrap: wrap;
+ }
+ 
